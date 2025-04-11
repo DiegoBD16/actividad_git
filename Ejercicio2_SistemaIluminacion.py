@@ -1,3 +1,5 @@
+class sistemas:
+    pass
 class SistemaIluminacion:
     def __init__(self):
         self.__nivel_brillo = 0  # Nivel de brillo privado
