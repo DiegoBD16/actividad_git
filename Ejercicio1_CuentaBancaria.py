@@ -1,4 +1,6 @@
 #ejercicio de cuenta bancaria
+class cuenta:
+    pass
 
 class CuentaBancaria:
     def __init__(self, dni, saldo_inicial=0):
